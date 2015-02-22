@@ -1,2 +1,2 @@
-# GPTW1134
+# Udacity Swift
 Swift Code Share
